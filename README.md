@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashmil</h1>
 <h3 align="center">A passionate student from india</h3>
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/life_balance.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmil14&label=Profile%20views&color=0e75b6&style=flat" alt="ashmil14" /> </p>
 

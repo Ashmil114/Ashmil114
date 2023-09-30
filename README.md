@@ -1,7 +1,7 @@
-<!-- ![Space Odyssey](https://wallpapercave.com/dwp1x/wp2234615.png) -->
+<!-- ![Space Odyssey](https://wallpapercave.com/dwp1x/wp2234615.png)
 <div align='center'>
   <img src="" width='100%' />
-</div>
+</div> -->
 <h1 align="center" >Hi 👋, I'm Ashmil K</h1>
 <h3 align="center">Fullstack Developer//Python Developer 💻</h3>
 <h4 align="center"> :octocat:</h4>

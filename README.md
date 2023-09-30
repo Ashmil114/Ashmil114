@@ -1,6 +1,6 @@
 <!-- ![Space Odyssey](https://wallpapercave.com/dwp1x/wp2234615.png) -->
 <div align='center'>
-  <img src="https://i.gifer.com/LSsT.gif" width='100%' />
+  <img src="" width='100%' />
 </div>
 <h1 align="center" >Hi 👋, I'm Ashmil K</h1>
 <h3 align="center">Fullstack Developer//Python Developer 💻</h3>

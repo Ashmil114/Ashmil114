@@ -18,7 +18,7 @@
 ## Tech Stack  🛠 :
 
 - 💻 &nbsp; Python | Php | C   
-- 🌐 &nbsp; HTML | CSS | JavaScript | React JS | Tailwind CSS   
+- 🌐 &nbsp; HTML | CSS | TypeScript | React JS | Tailwind CSS   
 - 🛢 &nbsp; Django | Flask | MySQL  
 - 🔧 &nbsp; Rest API | Git | Visual Studio code 
 - 🖥 &nbsp; Figma

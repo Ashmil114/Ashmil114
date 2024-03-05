@@ -17,11 +17,11 @@
 
 ## Tech Stack  🛠 :
 
-- 💻 &nbsp; Python | Php | C   
-- 🌐 &nbsp; HTML | CSS | TypeScript | React JS | Tailwind CSS   
-- 🛢 &nbsp; Django | Flask | MySQL  
-- 🔧 &nbsp; Rest API | Git | Visual Studio code 
-- 🖥 &nbsp; Figma
+- 💻 &nbsp; Python | JavaScript | TypeScript   
+- 🌐 &nbsp; React JS | Tailwind CSS | HTML | CSS   
+- 🛢 &nbsp;  Django | Flask  
+- 🔧 &nbsp; Rest API | Git | Visual Studio code | Postman
+- 🖥 &nbsp;  Figma
 
 
 

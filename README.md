@@ -36,13 +36,7 @@
 - 🪐 [portfolio](https://ashmil.vercel.app/)
 
 
-## Stats 👟
-<div>
-  
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashmil114&show_icons=true&locale=en" alt="ashmil114" /></p> 
-  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashmil114&show_icons=true&locale=en&layout=compact" alt="ashmil114" /></p>
 
-</div>
 
 
 

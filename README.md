@@ -10,7 +10,7 @@
 
 
 ##  About me 😄:
-<p>I'm a B.E. Final year Computer Engineering student ,Also a full stack developer with a passion for creating dynamic and responsive web applications . I'm constantly looking for ways to integrate ML algorithms into my projects and improve the user experience .with my skills and experience. Love to contribute to open-source</p>
+<p>I'm a B.E. Computer Engineering Graduate ,Also a full stack developer with a passion for creating dynamic and responsive web applications . I'm constantly looking for ways to integrate ML algorithms into my projects and improve the user experience .with my skills and experience. Love to contribute to open-source</p>
 
 
 
@@ -21,6 +21,7 @@
 - 🌐 &nbsp; React JS | Tailwind CSS | HTML | CSS   
 - 🛢 &nbsp;  Django | Flask  
 - 🔧 &nbsp; Rest API | Git | Visual Studio code | Postman
+- ⛁  &nbsp; MySQL | Postresql 
 - 🖥 &nbsp;  Figma
 
 

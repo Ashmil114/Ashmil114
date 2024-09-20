@@ -21,7 +21,7 @@
 - 🌐 &nbsp; React JS | Tailwind CSS | HTML | CSS   
 - 🛢 &nbsp;  Django | Flask  
 - 🔧 &nbsp; Rest API | Git | Visual Studio code | Postman
-- ⛁  &nbsp; MySQL | Postresql 
+- ⛁  &nbsp; MySQL | Postgresql
 - 🖥 &nbsp;  Figma
 
 

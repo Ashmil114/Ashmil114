@@ -18,8 +18,8 @@
 ## Tech Stack  🛠 :
 
 - 💻 &nbsp; Python | JavaScript | TypeScript   
-- 🌐 &nbsp; React JS | Tailwind CSS | HTML | CSS   
-- 🛢 &nbsp;  Django | Flask  
+- 🌐 &nbsp; React JS | Tailwind CSS | HTML | CSS | JQuery 
+- 🛢 &nbsp;  Django | Flask | Pandas | Matplotlib | Beautiful Soup
 - 🔧 &nbsp; Rest API | Git | Visual Studio code | Postman
 - ⛁  &nbsp; MySQL | Postgresql
 - 🖥 &nbsp;  Figma

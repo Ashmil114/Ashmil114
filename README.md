@@ -17,7 +17,7 @@
 
 ## Tech Stack  🛠 :
 
-- 💻 &nbsp; Python | JavaScript | TypeScript   
+- 💻 &nbsp; Python | JavaScript | TypeScript | Go   
 - 🌐 &nbsp; React JS | Tailwind CSS | HTML | CSS | JQuery 
 - 🛢 &nbsp;  Django | Flask | Pandas | Matplotlib | Beautiful Soup
 - 🔧 &nbsp; Rest API | Git | Visual Studio code | Postman

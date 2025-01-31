@@ -33,9 +33,13 @@
 &nbsp;<a href="https://www.leetcode.com/asshhmil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asshhmil" height="30" width="30" /></a>
 </p>
 
+
+
 - 📫  **ashmilk114@gmail.com**
 - 🪐 [portfolio](https://ashmil.vercel.app/)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashmil114&theme=transparent)](https://git.io/streak-stats)
 
 
 

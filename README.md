@@ -3,7 +3,7 @@
   <img src="" width='100%' />
 </div> -->
 <h1 align="center" >Hi 👋, I'm Ashmil K</h1>
-<h3 align="center">Fullstack Developer//Python Developer ☕</h3>
+<h3 align="center">Software Developer ☕</h3>
 <h4 align="center"> :octocat:</h4>
 
 
@@ -17,9 +17,9 @@
 
 ## Tech Stack  🛠 :
 
-- 💻 &nbsp; Python | JavaScript | TypeScript | Go   
+- 💻 &nbsp; Python | JavaScript | TypeScript | Go | Java   
 - 🌐 &nbsp; React JS | Tailwind CSS | HTML | CSS | JQuery 
-- 🛢 &nbsp;  Django | Flask | Pandas | Matplotlib | Beautiful Soup
+- 🛢 &nbsp;  Django | Springboot | Flask | Pandas | Matplotlib | Beautiful Soup
 - 🔧 &nbsp; Rest API | Git | Visual Studio code | Postman
 - ⛁  &nbsp; MySQL | Postgresql
 - 🖥 &nbsp;  Figma

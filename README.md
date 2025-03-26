@@ -2,7 +2,7 @@
 <div align='center'>
   <img src="" width='100%' />
 </div> -->
-<h1 align="center" >Hi 👋, I'm Ashmil K </h1>
+<h1 align="center" >Hi 👋, I'm Ashmil K</h1>
 <h3 align="center">Software Developer ☕</h3>
 <h4 align="center"> :octocat:</h4>
 
